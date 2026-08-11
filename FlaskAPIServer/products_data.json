@@ -1,0 +1,30 @@
+[
+ {
+    "ProductID": 10001,
+    "ProductName": "Smartwatch",
+    "Category": "Electronics",
+    "MRP": 100.0,
+    "Discount": 1.02
+  },
+  {
+    "ProductID": 10002,
+    "ProductName": "Smartwatch",
+    "Category": "Accessories",
+    "MRP": 110.0,
+    "Discount": 1.12
+  },
+  {
+    "ProductID": 10003,
+    "ProductName": "Smartwatch",
+    "Category": "Home Appliances",
+    "MRP": 120.0,
+    "Discount": 1.22
+  },
+  {
+    "ProductID": 10004,
+    "ProductName": "Smartwatch",
+    "Category": "Gadgets",
+    "MRP": 130.0,
+    "Discount": 1.32
+  }
+]
